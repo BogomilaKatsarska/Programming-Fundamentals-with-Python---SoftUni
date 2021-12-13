@@ -1,0 +1,8 @@
+# 1.	Largest of Three Numbers
+# Write a program that receives three whole numbers and print the largest one.
+
+num_1 = int(input())
+num_2 = int(input())
+num_3 = int(input())
+
+print(max(num_1, num_2, num_3))
